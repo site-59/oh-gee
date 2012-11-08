@@ -8,7 +8,7 @@ Use the WP Administration page to install the theme and go to the settings pages
  
 ##Translation
 
-Please contribute to the translation of the Oh-Gee theme into your language. You can do this in a very easy way online, using the [PO Editor progect page](http://poeditor.com/join/project?hash=b64a2953e38eaaef2d99334364035150). 
+Please contribute to the translation of the Oh-Gee theme into your language. You can do this in a very easy way online, using the [PO Editor project page](http://poeditor.com/join/project?hash=b64a2953e38eaaef2d99334364035150). 
 
 
 <pre><code>
